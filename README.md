@@ -1,7 +1,7 @@
 # Agentic RAG Proof-of-Concept (Local LLM)
 
 ## Overview
-This project is a Proof-of-Concept (PoC) demonstrating a fully local, privacy-first Retrieval-Augmented Generation (RAG) system. It allows users to ask questions about local documents (PDFs, text files) without sending any sensitive data to external cloud APIs like OpenAI. 
+This project is made for understanding and is  a Proof-of-Concept (PoC) demonstrating a fully local, privacy-first Retrieval-Augmented Generation (RAG) system. It allows users to ask questions about local documents (PDFs, text files) without sending any sensitive data to external cloud APIs like OpenAI. 
 
 ## Tech Stack
 * **Language:** Python 3.10+
