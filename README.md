@@ -1,7 +1,7 @@
 # Agentic RAG Proof-of-Concept (Local LLM)
 
 ## Overview
-This project is made for understanding and is  a Proof-of-Concept (PoC) demonstrating a fully local, privacy-first Retrieval-Augmented Generation (RAG) system. It allows users to ask questions about local documents (PDFs, text files) without sending any sensitive data to external cloud APIs like OpenAI. 
+This project is made for understanding and is a Proof-of-Concept (PoC) demonstrating a fully local, privacy-first Retrieval-Augmented Generation (RAG) system. It allows users to ask questions about local documents (PDFs, text files) without sending any sensitive data to external cloud APIs like OpenAI. 
 
 ## Tech Stack
 * **Language:** Python 3.10+
@@ -50,3 +50,8 @@ This project is made for understanding and is  a Proof-of-Concept (PoC) demonstr
 
 ## Future Enhancements (Agentic Capabilities)
 Once the basic RAG pipeline is working, the next step is adding "Agentic" tools. This involves giving the LangChain LLM access to external Python functions (e.g., a tool that calculates math, or a tool that queries a SQL database) and letting the LLM decide when to use them.
+
+---
+
+## Diagram of its inner workings.
+
